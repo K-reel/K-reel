@@ -14,7 +14,7 @@ Cybersecurity • Threat Intelligence • Malware Analysis • Software Supply C
 ---
 
 ## Navigation
-- [About / Focus](#about--focus)
+- [whoami](#whoami)
 - [Featured Highlights](#featured-highlights)
 - [Writing & Publications](#writing--publications)
 - [Talks & Workshops](#talks--workshops)
@@ -24,12 +24,14 @@ Cybersecurity • Threat Intelligence • Malware Analysis • Software Supply C
 
 ---
 
-## About / Focus
-- <img src="assets/logos/socket_logo.png" width="16" height="16" /> Senior Threat Intelligence Analyst at Socket — software supply chain security
-- 🔬 Reverse-engineer malicious open source packages and extensions across npm, PyPI, Go Modules, RubyGems, Maven, NuGet, crates.io, Chrome extensions, VS Code (Open VSX), and Hugging Face
+## whoami
+- 
+- 🔬 Reverse-engineer malicious open source packages and extensions across npm, PyPI, Go Modules, RubyGems, Maven, NuGet, crates.io, Chrome extensions, VS Code (Open VSX), and Hugging Face.
+- <img src="assets/logos/socket_logo.png" width="16" height="16" /> Senior Threat Intelligence Analyst at Socket — software supply chain security.
 - <img src="assets/logos/recorded_future_logo.jpeg" width="16" height="16" /> Previously at Recorded Future (a MasterCard <img src="assets/logos/mastercard_logo.png" width="16" height="16" /> company) — 5 years across the ARMOR (Advanced Reversing, Malware, Operations & Reconnaissance) and ACE (Advanced Cybercrime & Engagements) teams.
-- Previously in cyber: public-private partnership dedicated to fighting cybercrime and ransomware - primary technical point of contact for internal teams, clients, and partners; led investigations, threat hunting, malware analysis, vulnerability tracking, and adversary tracing.
-- Live before cyber: United Nations / American Bar Association / International Labor Rights Forum — programs mitigating human trafficking, corruption, and labor abuses
+- <img src="assets/logos/dwiq_logo.png" width="16" height="16" /> Previously at Darkweb IQ (public-private partnership dedicated to fighting cybercrime and ransomware) - primary technical point of contact; led investigations, threat hunting, malware analysis, vulnerability tracking, and adversary tracing.
+- <img src="assets/logos/sti_logo.jpeg" width="16" height="16" /> SANS Technology Institute alum - Applied Cybersecurity (ACS) Program, 2020 – 2022
+- Life before cybersecurity: <img src="assets/logos/un_logo.png" width="16" height="16" /> United Nations / <img src="assets/logos/aba_logo.png" width="16" height="16" /> American Bar Association / <img src="assets/logos/ilrf_logo.jpg" width="16" height="16" /> International Labor Rights Forum — programs mitigating human trafficking, corruption, and labor abuses.
 
 ## Featured Highlights
 | Type | Title | Year | Link |
