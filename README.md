@@ -27,7 +27,7 @@ Cybersecurity • Threat Intelligence • Malware Analysis • Software Supply C
 ## About / Focus
 - Senior Threat Intelligence Analyst @ Socket.dev — software supply chain security company
 - Reverse-engineer malicious packages and extensions across npm, PyPI, Go Modules, RubyGems, Maven, Crates, NuGet, Chrome, VS Code (Open VSX), and Hugging Face
-- <img src="assets/logos/mastercard-recorded-future_logo.jpg" width="16" height="16" /> Previously: Recorded Future (Insikt Group) — 5 years split between 2 teams: ARMOR - the Advanced Reversing, Malware, Operations, and Reconnaissance team and ACE - the Advanced Cybercrime and Engagements team
+- <img src="assets/logos/recorded_future_logo.jpeg" width="16" height="16" /> Previously: Recorded Future (Insikt Group) — 5 years split between 2 teams: ARMOR - the Advanced Reversing, Malware, Operations, and Reconnaissance team and ACE - the Advanced Cybercrime and Engagements team
 - Previously in cyber: public-private partnership dedicated to fighting cybercrime and ransomware - primary technical point of contact for internal teams, clients, and partners; led investigations, threat hunting, malware analysis, vulnerability tracking, and adversary tracing.
 - Live before cyber: United Nations / American Bar Association / International Labor Rights Forum — programs mitigating human trafficking, corruption, and labor abuses
 
