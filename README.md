@@ -26,7 +26,7 @@ Cybersecurity • Threat Intelligence • Malware Analysis • Software Supply C
 
 ## About / Focus
 - <img src="assets/logos/socket_logo.png" width="16" height="16" /> Senior Threat Intelligence Analyst at Socket — software supply chain security
-- Reverse-engineer malicious packages and extensions across npm, PyPI, Go Modules, RubyGems, Maven, Crates, NuGet, Chrome, VS Code (Open VSX), and Hugging Face
+- 🔬 Reverse-engineer malicious open source packages and extensions across npm, PyPI, Go Modules, RubyGems, Maven, NuGet, crates.io, Chrome extensions, VS Code (Open VSX), and Hugging Face
 - <img src="assets/logos/recorded_future_logo.jpeg" width="16" height="16" /> Previously at Recorded Future (a MasterCard <img src="assets/logos/mastercard_logo.png" width="16" height="16" /> company) — 5 years across the ARMOR (Advanced Reversing, Malware, Operations & Reconnaissance) and ACE (Advanced Cybercrime & Engagements) teams.
 - Previously in cyber: public-private partnership dedicated to fighting cybercrime and ransomware - primary technical point of contact for internal teams, clients, and partners; led investigations, threat hunting, malware analysis, vulnerability tracking, and adversary tracing.
 - Live before cyber: United Nations / American Bar Association / International Labor Rights Forum — programs mitigating human trafficking, corruption, and labor abuses
