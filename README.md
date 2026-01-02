@@ -1,4 +1,7 @@
 <!-- Profile README for github.com/K-reel -->
+<p align="center">
+  <img src="assets/logos/banner.png" alt="K-reel banner" width="100%" />
+</p>
 
 <h1 align="left">The Journey is the Reward</h1>
 <p align="left">
