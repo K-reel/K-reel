@@ -14,7 +14,7 @@ Cybersecurity • Threat Intelligence • Malware Analysis • Software Supply C
 ---
 
 ## Navigation
-- [whoami](#whoami)
+- [Journey](#Journey)
 - [Featured Highlights](#featured-highlights)
 - [Writing & Publications](#writing--publications)
 - [Talks & Workshops](#talks--workshops)
@@ -24,8 +24,8 @@ Cybersecurity • Threat Intelligence • Malware Analysis • Software Supply C
 
 ---
 
-## whoami
-- 🛠️ Strengths: threat intelligence, malware analysis, detection engineering (YARA/Sigma/Snort), threat hunting, infrastructure tracking, vulnerability analysis, incident handling, and automation/tooling (Python, JavaScript/TypeScript, Ruby; data/AI/ML).
+## Journey
+- 🛠️ Threat intelligence, malware analysis, detection engineering (YARA/Sigma/Snort), threat hunting, infrastructure tracking, vulnerability analysis, incident handling, and automation/tooling (Python, JavaScript/TypeScript, Ruby; data/AI/ML).
 - 🔬 Reverse-engineer malicious open source packages and extensions across npm, PyPI, Go Modules, RubyGems, Maven, NuGet, Rust (crates.io), Chrome extensions, VS Code, Open VSX, and Hugging Face.
 - <img src="assets/logos/socket_logo.png" width="16" height="16" /> Senior Threat Intelligence Analyst at Socket — software supply chain security.
 - <img src="assets/logos/recorded_future_logo.jpeg" width="16" height="16" /> Previously at Recorded Future (a Mastercard <img src="assets/logos/mastercard_logo.png" width="16" height="16" /> company) — 5 years across the ARMOR (Advanced Reversing, Malware, Operations & Reconnaissance) and ACE (Advanced Cybercrime & Engagements) teams.
