@@ -30,6 +30,7 @@ Cybersecurity • Threat Intelligence • Malware Analysis • Software Supply C
 ## My Journey
 - 🛠️ Cybersecurity, threat intelligence, malware analysis, detection engineering (YARA/Sigma/Snort), threat hunting, infrastructure tracking, vulnerability analysis, incident handling, and automation/tooling (Python, JavaScript/TypeScript, Ruby; data/AI/ML).
 - 🔬 Reverse-engineer malicious open source packages and extensions across npm, PyPI, Go Modules, RubyGems, Maven, NuGet, Rust (crates.io), Chrome extensions, VS Code, Open VSX, and Hugging Face models.
+- <img src="assets/logos/mitre_logo.jpg" width="16" height="16" /> Contributed to MITRE ATT&CK — [Contagious Interview](https://attack.mitre.org/groups/G1052/)
 - <img src="assets/logos/socket_logo.png" width="16" height="16" /> Senior Threat Intelligence Analyst at Socket — software supply chain security.
 - <img src="assets/logos/recorded_future_logo.jpeg" width="16" height="16" /> Previously at Recorded Future (a Mastercard <img src="assets/logos/mastercard_logo.png" width="16" height="16" /> company) — 5 years across the ARMOR (Advanced Reversing, Malware, Operations & Reconnaissance) and ACE (Advanced Cybercrime & Engagements) teams.
 - <img src="assets/logos/dwiq_logo.png" width="16" height="16" /> Previously at Darkweb IQ (a public–private partnership dedicated to fighting cybercrime and ransomware) — primary technical point of contact; led investigations, threat hunting, malware analysis, vulnerability tracking, and adversary tracing.
