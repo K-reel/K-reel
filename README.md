@@ -149,7 +149,7 @@ Cybersecurity • Threat Intelligence • Malware Analysis • Software Supply C
 </details>
 
 <details>
-<summary><strong>🧩 Extensions / Chrome</strong></summary>
+<summary><strong>🧩 Extensions / Chrome</strong> / VS Code</strong> / OpenVSX</strong></summary>
 
 - [Malicious Chrome Extension Exfiltrates Seed Phrases, Enabling Wallet Takeover](https://socket.dev/blog/malicious-chrome-extension-exfiltrates-seed-phrases) (2025)
 - [131 Spamware Extensions Targeting WhatsApp Flood Chrome Web Store](https://socket.dev/blog/131-spamware-extensions-targeting-whatsapp-flood-chrome-web-store) (2025)
